@@ -9,6 +9,7 @@ const int dayHours=24;
 const int hourMinuts=60;
 const int minuteSeconds=60;
 
+// github update commit
 cout << "==============================\n";
 cout << "==============================\n";
 cout << "===== Age calculator app =====\n";
